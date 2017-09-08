@@ -1,0 +1,6 @@
+c:\users\sandy\documents\visual studio 2015\Projects\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.exe.config
+c:\users\sandy\documents\visual studio 2015\Projects\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.exe
+c:\users\sandy\documents\visual studio 2015\Projects\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.pdb
+c:\users\sandy\documents\visual studio 2015\Projects\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.csprojResolveAssemblyReference.cache
+c:\users\sandy\documents\visual studio 2015\Projects\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.exe
+c:\users\sandy\documents\visual studio 2015\Projects\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.pdb

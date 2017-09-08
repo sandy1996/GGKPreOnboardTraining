@@ -1,0 +1,6 @@
+c:\users\sandy\documents\visual studio 2015\Projects\AddingInt\AddingInt\bin\Debug\AddingInt.exe.config
+c:\users\sandy\documents\visual studio 2015\Projects\AddingInt\AddingInt\bin\Debug\AddingInt.exe
+c:\users\sandy\documents\visual studio 2015\Projects\AddingInt\AddingInt\bin\Debug\AddingInt.pdb
+c:\users\sandy\documents\visual studio 2015\Projects\AddingInt\AddingInt\obj\Debug\AddingInt.csprojResolveAssemblyReference.cache
+c:\users\sandy\documents\visual studio 2015\Projects\AddingInt\AddingInt\obj\Debug\AddingInt.exe
+c:\users\sandy\documents\visual studio 2015\Projects\AddingInt\AddingInt\obj\Debug\AddingInt.pdb

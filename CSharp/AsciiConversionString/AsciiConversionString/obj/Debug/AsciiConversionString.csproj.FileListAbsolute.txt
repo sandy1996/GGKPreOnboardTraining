@@ -1,0 +1,6 @@
+c:\users\sandy\documents\visual studio 2015\Projects\AsciiConversionString\AsciiConversionString\bin\Debug\AsciiConversionString.exe.config
+c:\users\sandy\documents\visual studio 2015\Projects\AsciiConversionString\AsciiConversionString\bin\Debug\AsciiConversionString.exe
+c:\users\sandy\documents\visual studio 2015\Projects\AsciiConversionString\AsciiConversionString\bin\Debug\AsciiConversionString.pdb
+c:\users\sandy\documents\visual studio 2015\Projects\AsciiConversionString\AsciiConversionString\obj\Debug\AsciiConversionString.csprojResolveAssemblyReference.cache
+c:\users\sandy\documents\visual studio 2015\Projects\AsciiConversionString\AsciiConversionString\obj\Debug\AsciiConversionString.exe
+c:\users\sandy\documents\visual studio 2015\Projects\AsciiConversionString\AsciiConversionString\obj\Debug\AsciiConversionString.pdb

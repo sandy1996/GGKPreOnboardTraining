@@ -1,0 +1,6 @@
+c:\users\sandy\documents\visual studio 2015\Projects\ConsecutivePrimeSum\ConsecutivePrimeSum\bin\Debug\ConsecutivePrimeSum.exe.config
+c:\users\sandy\documents\visual studio 2015\Projects\ConsecutivePrimeSum\ConsecutivePrimeSum\obj\Debug\ConsecutivePrimeSum.csprojResolveAssemblyReference.cache
+c:\users\sandy\documents\visual studio 2015\Projects\ConsecutivePrimeSum\ConsecutivePrimeSum\bin\Debug\ConsecutivePrimeSum.exe
+c:\users\sandy\documents\visual studio 2015\Projects\ConsecutivePrimeSum\ConsecutivePrimeSum\bin\Debug\ConsecutivePrimeSum.pdb
+c:\users\sandy\documents\visual studio 2015\Projects\ConsecutivePrimeSum\ConsecutivePrimeSum\obj\Debug\ConsecutivePrimeSum.exe
+c:\users\sandy\documents\visual studio 2015\Projects\ConsecutivePrimeSum\ConsecutivePrimeSum\obj\Debug\ConsecutivePrimeSum.pdb
